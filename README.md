@@ -1,4 +1,4 @@
-# 💡 Striver’s DSA Progress Tracker 🚀JAVA + Leetcode
+# 💡 Striver’s DSA Progress Tracker 🚀JAVA + LeetCode
 Tracking my daily progress solving Striver’s A2Z DSA Sheet.
 
 ---
