@@ -1,7 +1,12 @@
-# Day 01 – Problems Solved ✅
+📅 Day 1 of 15 – Arrays Basics
 
-1. Reverse Array (LeetCode 344)
-2. Merge Sorted Array (LeetCode 88)
-3. Rotate Array (LeetCode 189)
+✅ Problems solved:
+1️⃣ Reverse the Array (LC 344 – Reverse String variant)
+2️⃣ Maximum and Minimum in an Array
+3️⃣ Kth Maximum and Minimum Element (LC 215 – Kth Largest)
+4️⃣ Sort the Array (Bubble Sort)
+5️⃣ Union of Two Sorted Arrays (LC 349 adapted)
+6️⃣ Cyclically Rotate an Array by One (LC 189 variant)
 
-📂 Code files for these problems will also be placed here.
+🔢 Total solved today = 6  
+📊 Cumulative solved = 6 / 100
