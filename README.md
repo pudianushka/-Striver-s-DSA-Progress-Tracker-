@@ -3,22 +3,42 @@ Tracking my daily progress solving Striver’s A2Z DSA Sheet.
 
 ---
 
-## 📘 Day 1 – Arrays Basics
+<h2>✅ Day 1 – Arrays Basics</h2>
 
-1. ✅ **Reverse the Array**  
-   🔹 [LC 344 – Reverse String](https://leetcode.com/problems/reverse-string/)
-
-2. ✅ **Find the “Kth” Max Element of an Array**  
-   🔹 [LC 215 – Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/)
-
-3. ✅ **Sort an Array of 0s, 1s, and 2s (Dutch National Flag Problem)**  
-   🔹 [LC 75 – Sort Colors](https://leetcode.com/problems/sort-colors/)
-
-4. ✅ **Move All Negative Elements to One Side** *(adapted)*  
-   🔹 [LC 905 – Sort Array by Parity](https://leetcode.com/problems/sort-array-by-parity/)
-
-5. ✅ **Find the Largest Sum Contiguous Subarray (Kadane’s Algorithm)**  
-   🔹 [LC 53 – Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)
-
-6. ✅ **Find the Duplicate Number in an Array**  
-   🔹 [LC 287 – Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)
+<table>
+  <tr>
+    <th>Problem No.</th>
+    <th>Problem Name</th>
+    <th>LeetCode Link</th>
+  </tr>
+  <tr>
+    <td>1</td>
+    <td>Reverse the Array</td>
+    <td><a href="https://leetcode.com/problems/reverse-string/">LC 344</a></td>
+  </tr>
+  <tr>
+    <td>2</td>
+    <td>Merge Two Sorted Arrays</td>
+    <td><a href="https://leetcode.com/problems/merge-sorted-array/">LC 88</a></td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td>Move Zeros</td>
+    <td><a href="https://leetcode.com/problems/move-zeroes/">LC 283</a></td>
+  </tr>
+  <tr>
+    <td>4</td>
+    <td>Rotate Array</td>
+    <td><a href="https://leetcode.com/problems/rotate-array/">LC 189</a></td>
+  </tr>
+  <tr>
+    <td>5</td>
+    <td>Find Max & Min</td>
+    <td><a href="https://leetcode.com/problems/maximum-subarray/">LC 53</a></td>
+  </tr>
+  <tr>
+    <td>6</td>
+    <td>Kadane’s Algorithm</td>
+    <td><a href="https://leetcode.com/problems/maximum-subarray/">LC 53</a></td>
+  </tr>
+</table>
