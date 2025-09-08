@@ -1,3 +1,5 @@
+💡 Striver’s DSA Progress Tracker 🚀
+
 📅 Day 1 of 15 – Arrays Basics
 
 ✅ Problems solved:
